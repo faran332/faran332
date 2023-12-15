@@ -1,5 +1,6 @@
 Hi, I’m @faran332
-I’m interested in videogames, reading, lifting and coding
+I’m interested in machine learning, data science and in general coding. 
+In my freetime I also play videogames, read and lift.
 I’m currently studying computer science
 
 <!---
