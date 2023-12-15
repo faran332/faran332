@@ -1,5 +1,5 @@
 Hi, I’m @faran332
-I’m interested in videogames, reading, and coding
+I’m interested in videogames, reading, lifting and coding
 I’m currently studying computer science
 
 <!---
