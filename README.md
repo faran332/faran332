@@ -1,4 +1,4 @@
-Hi, I’m @faran332 and I am interested in machine learning, robotics, and data science. 
+Hi, I’m @faran332 and I am interested in Machine Learning, Robotics, and Data Science. 
 Currently, I'm doing my Masters in Computer Science at TU Darmstadt. 
 In my free time, I play video games, read, and like lifting weights. 
 
